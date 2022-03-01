@@ -1,0 +1,2 @@
+module Encapsulation3 {
+}
